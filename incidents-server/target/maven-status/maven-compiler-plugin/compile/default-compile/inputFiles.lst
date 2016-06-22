@@ -1,0 +1,14 @@
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\model\incidents\OperationsFactory.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\model\incidents\OperationsFactoryImpl.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\model\incidents\Incident.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\dao\incidents\IncidentsRepository.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\model\incidents\IncidentConstans.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\mapper\incidents\IncidentsMapperImpl.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\manager\incidents\IncidentsManager.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\model\incidents\IncidentType.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\model\incidents\OperationConstants.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\manager\incidents\IncidentsManagerImpl.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\dao\incidents\JpaIncidentsRepository.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\model\incidents\Operation.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\mapper\incidents\IncidentsMapper.java
+C:\temp\incidentsProjectWorkspace\incidents-server\src\main\java\incidentsproject\server\controllers\incidents\IncidentsController.java

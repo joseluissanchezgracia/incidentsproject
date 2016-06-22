@@ -1,0 +1,30 @@
+html, body {
+	padding-top: 20px;
+	padding-bottom: 5px;
+	height: 100%;
+}
+
+.container {
+	position: relative;
+	min-height: 100%;
+	padding-bottom: 30px;
+}
+
+div.container div.row:last-child {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+div.container-fluid div.row:last-child {
+	position: inherit;
+	bottom: inherit;
+	width: inherit;
+}
+
+div.container div.row p {
+	padding: 6px;
+	text-align: center;
+	color: #FFF;
+	background: #00786d;
+}

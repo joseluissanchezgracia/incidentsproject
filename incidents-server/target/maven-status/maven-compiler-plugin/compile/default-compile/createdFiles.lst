@@ -1,0 +1,15 @@
+incidentsproject\server\controllers\incidents\IncidentsController.class
+incidentsproject\server\model\incidents\OperationsFactory.class
+incidentsproject\server\dao\incidents\IncidentsRepository.class
+incidentsproject\server\model\incidents\Incident.class
+incidentsproject\server\model\incidents\IncidentConstans.class
+incidentsproject\server\model\incidents\OperationsFactoryImpl.class
+incidentsproject\server\model\incidents\Operation.class
+incidentsproject\server\model\incidents\IncidentType$IncidentTypePK.class
+incidentsproject\server\model\incidents\IncidentType.class
+incidentsproject\server\model\incidents\OperationConstants.class
+incidentsproject\server\mapper\incidents\IncidentsMapperImpl.class
+incidentsproject\server\manager\incidents\IncidentsManager.class
+incidentsproject\server\dao\incidents\JpaIncidentsRepository.class
+incidentsproject\server\manager\incidents\IncidentsManagerImpl.class
+incidentsproject\server\mapper\incidents\IncidentsMapper.class

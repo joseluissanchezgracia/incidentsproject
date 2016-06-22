@@ -1,0 +1,4 @@
+incidentsproject\client\controllers\welcome\WelcomeController.class
+incidentsproject\client\manager\incidents\IncidentsManager.class
+incidentsproject\client\manager\incidents\IncidentsManagerImpl.class
+incidentsproject\client\controllers\incidents\IncidentsController.class
